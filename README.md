@@ -1,2 +1,0 @@
-# shiftmate
-class project
